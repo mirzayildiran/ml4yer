@@ -1,39 +1,50 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="175px"/></a>
+# Hi, I'm Ahmet Mirza Yıldıran 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mirza</h1>
-<h3 align="center">I'm a young developer from Turkey.</h3>
+**Computer Engineering student at Gazi University** · Ankara, Türkiye
 
+I'm focused on **embedded systems** and **low-level, hardware-oriented software**, with a long-term goal of working in the **defense industry**. I've been programming in Python, C and C++ since 2021 and I'm currently looking for **internship and part-time opportunities** in embedded systems, electronics and software development.
 
-## 🙋‍♂️ About Me
+---
 
-- 🔭 I’m currently working on **MacroThoughts Projects**
+### 🔧 Tech Stack
 
-- 🌱 I’m currently learning **Ethical Hacking**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-- 📫 How to reach me **mirza0yildiran@icloud.com**
+### 🎯 Focus Areas
 
-## 🚀 Languages and Tools:
+- Embedded systems & microcontroller programming
+- Hardware-near software in C / C++
+- Electrical & electronics fundamentals for defense applications
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-        
-</p>
+### 🎓 Education
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+- **Gazi University** — B.Sc. Computer Engineering *(2026 – 2030, expected)*
+- **Middle East Technical University (METU)** — English Preparatory & Civil Engineering coursework *(2024 – 2026)*
+- **Balıkesir Bilnet Science High School** *(2020 – 2024)*
 
-## Connect with me:
-<p align="left">
+### 💼 Experience & Leadership
 
-<a href = "https://twitter.com/ml4yer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/m1rz4yldrn/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCKUdF9NdvSycG_9oA5Hyyzg/featured"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://open.spotify.com/user/31ewslobvxlfbbanl7xnhjk2vqsm?si=5e5f9a07960e45f0"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
-<a href = "https://www.snapchat.com/add/mlyer0?share_id=OTlCOUY4&locale=tr_TR"><img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/></a>
+- **DenizBank** — Overseas Internship Program, Intern *(Oct – Nov 2024)*
+- **1907 ÜNİFEB – METU** — Board Member, Social Media & Design Lead *(2025 – present)*
+- **IACES METU LC** — Event Organizer, *Cesummit'25* and *BIG '24 (Informatics & Innovation Days)*
+- **TEGV** & **LÖSEV** — Volunteer
 
-</p>
+### 📜 Certifications
+
+- AI Applications Academy — *Coderspace* (2026)
+- Programming Foundations: Beyond the Fundamentals — *LinkedIn Learning* (2024)
+- Ethical Hacking Course (CTF) — *Udemy* (2021)
+
+---
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-mirza-y%C4%B1ld%C4%B1ran-08579b217)
+[![Email](https://img.shields.io/badge/Email-mirza0yildiran%40icloud.com-555?style=flat-square&logo=icloud&logoColor=white)](mailto:mirza0yildiran@icloud.com)
+
+🇹🇷 Turkish (native) · 🇬🇧 English (professional working proficiency)
